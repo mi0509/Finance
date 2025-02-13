@@ -1,4 +1,4 @@
-# Personal Investment Advisor & AI-based Financial AssistantPersonal Investment Advisor & AI-based Financial Assistant
+# Personal Finance Assitant
 ## Project Overview
 
 This project is an AI-powered financial advisor that helps users make informed investment decisions based on their financial data and risk tolerance. It includes a Streamlit web app, a fine-tuned T5 model for Q&A, and investment suggestion algorithms.
