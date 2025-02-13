@@ -1,4 +1,7 @@
 # Personal Finance Assitant
+
+![WhatsApp Image 2025-02-13 at 22 01 11](https://github.com/user-attachments/assets/178d21c1-06fe-42c7-a2ae-112cc15c2005)
+
 ## Project Overview
 
 This project is an AI-powered financial advisor that helps users make informed investment decisions based on their financial data and risk tolerance. It includes a Streamlit web app, a fine-tuned T5 model for Q&A, and investment suggestion algorithms.
@@ -27,6 +30,9 @@ This project is an AI-powered financial advisor that helps users make informed i
 - **Model Testing & Deployment: **
     - `trail.py:` Loads and tests the T5 question-answering model.
     - `Untitled-1.py:` Loads the fine-tuned model for generating responses.
+      
+![WhatsApp Image 2025-02-13 at 22 01 13](https://github.com/user-attachments/assets/813863db-8f14-4a9a-b1e7-bfb67d11fdb6)
+
 	
 
 ------------
