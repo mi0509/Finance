@@ -27,7 +27,7 @@ This project is an AI-powered financial advisor that helps users make informed i
     - Processes user financial data and risk tolerance.
     - Generates investment growth predictions.
 
-- **Model Testing & Deployment: **
+- **Model Testing & Deployment:**
     - `trail.py:` Loads and tests the T5 question-answering model.
     - `Untitled-1.py:` Loads the fine-tuned model for generating responses.
       
